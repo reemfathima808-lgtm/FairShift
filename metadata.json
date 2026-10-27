@@ -1,0 +1,6 @@
+{
+  "name": "FairShift - UN SDG 8 Decent Work Platform",
+  "description": "Making shift work fairer, safer, and transparent for employee-intensive organisations across construction, education, healthcare, and manufacturing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
